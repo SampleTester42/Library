@@ -2,7 +2,7 @@ First, install Git if havent already and clone repository
 
 Setting Up MySQL Server:
 Download MySQL Server:
-Go to the MySQL Downloads page (https://dev.mysql.com/downloads/mysql/) and download the MySQL Community Server appropriate for your operating system. Choose .
+Go to the MySQL Downloads page (https://dev.mysql.com/downloads/mysql/) and download the MySQL Community Server appropriate for your operating system.
 
 Install MySQL Server:
 Follow the installation instructions provided for your operating system. During installation, you will set a root password for the MySQL server.
