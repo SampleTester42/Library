@@ -16,7 +16,7 @@ public class Main {
          * The user can select between a few options and can borrow a book, removing it from the database, or they can add/return
          * a book, adding it to the database. The user's input can go through the console.
          *
-         * TODO: 1. Create constructor, getters and setters for class Bok. It should also have title and author and a method that converts the medium to a string
+         * TODO: 1. Create constructor, getters and setters for class Book and set it to inherit from class Medium. It should also have title and author and a method that converts the medium to a string
          *       2. In class Library, implement method displayBooks() for printing out the entire list of media
          *       3. In the SQLConnector class there are two empty methods for adding and removing books. Implement them as well
          *       4. After that you can use the SQLConnector class to connect to the database and get a list of all the books/media. Then with that list you can create a Library
